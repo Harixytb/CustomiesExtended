@@ -1,27 +1,14 @@
-# Customies
+# CustomiesExtended
 
 [![](https://poggit.pmmp.io/shield.state/Customies)](https://poggit.pmmp.io/p/Customies) [![](https://poggit.pmmp.io/shield.dl.total/Customies)](https://poggit.pmmp.io/p/Customies)
 
-A PocketMine-MP plugin that implements support for custom blocks, items and entities.
+A PocketMine-MP plugin forked from Customies, extended for custom ecosystems (Linacraft).
 
-## Community
+## ⚡ CustomiesExtended (Fork)
 
-<a href="https://discord.gg/Tm6wGxWqgh"><img src="https://img.shields.io/discord/989466131305754625?label=discord&color=7289DA&logo=discord" alt="Discord" /></a>
+This project is a modified and extended version of Customies, focused on:
+- Improved item/block system
+- Extended API for custom ecosystems
+- Compatibility with Linacraft plugins
 
-Official Discord community chat for socializing, receiving help with the plugin, and sharing creations. Join in on the
-fun!
-
-## Usage
-
-The usage guides have been moved to the [Customies Wiki](https://github.com/CustomiesDevs/Customies/wiki)!
-
-## Important Contributors
-
-| Name                                                  | Contribution                                                                                 |
-|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| [TwistedAsylumMC](https://github.com/TwistedAsylumMC) | Helped research and develop the first versions of Customies as well as maintain the code     |
-| [DenielW](https://github.com/DenielWorld)             | Helped research and develop the first versions of Customies                                  |
-| [Abimek](https://github.com/abimek)                   | Helped develop the item components implementation and block-related bug fixes                |
-| [Unickorn](https://github.com/Unickorn)               | Maintained the code during the PM4 betas and kept it up to date                              |
-| [JackNoordhuis](https://github.com/JackNoordhuis)     | Suggested the idea of using async workers and helped write the code which made them function |
-> Future contributors will not be added to this list. This is a list of the contributors who helped develop the plugin before the public release.
+Original project: https://github.com/CustomiesDevs/Customies
