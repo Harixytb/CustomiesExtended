@@ -8,6 +8,17 @@ A PocketMine-MP plugin forked from Customies, extended for custom ecosystems.
 
 This project is a modified and extended version of Customies, focused on:
 - Improved item/block system
-- Extended API for custom 
+- Extended API for custom ecosystems
+- Performance improvements
 
-[Original project]( https://github.com/CustomiesDevs/Customies)
+👉 [Original project]( https://github.com/CustomiesDevs/Customies)
+
+---
+
+## 📚 Documentation
+
+### 📖 Official Customies Wiki
+[Wiki Customies](https://github.com/CustomiesDevs/Customies/wiki)
+
+### 📘 CustomiesExtended Wiki
+[Wiki CustomiesExtended](https://github.com/<TON-USER>/<TON-REPO>/wiki)
