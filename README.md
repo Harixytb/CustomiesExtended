@@ -21,4 +21,4 @@ This project is a modified and extended version of Customies, focused on:
 [Wiki Customies](https://github.com/CustomiesDevs/Customies/wiki)
 
 ### 📘 CustomiesExtended Wiki
-[Wiki CustomiesExtended](https://github.com/<TON-USER>/<TON-REPO>/wiki)
+[Wiki CustomiesExtended](https://github.com/Harixytb/CustomiesExtended/wiki)
