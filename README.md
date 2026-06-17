@@ -8,7 +8,6 @@ A PocketMine-MP plugin forked from Customies, extended for custom ecosystems.
 
 This project is a modified and extended version of Customies, focused on:
 - Improved item/block system
-- Extended API for custom ecosystems
-- Compatibility with Linacraft plugins
+- Extended API for custom 
 
-Original project: https://github.com/CustomiesDevs/Customies
+[Original project]( https://github.com/CustomiesDevs/Customies)
