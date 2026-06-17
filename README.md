@@ -2,7 +2,7 @@
 
 [![](https://poggit.pmmp.io/shield.state/Customies)](https://poggit.pmmp.io/p/Customies) [![](https://poggit.pmmp.io/shield.dl.total/Customies)](https://poggit.pmmp.io/p/Customies)
 
-A PocketMine-MP plugin forked from Customies, extended for custom ecosystems (Linacraft).
+A PocketMine-MP plugin forked from Customies, extended for custom ecosystems.
 
 ## ⚡ CustomiesExtended (Fork)
 
