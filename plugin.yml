@@ -1,15 +1,18 @@
-name: Customies
-description: A PocketMine-MP plugin that implements support for custom blocks, items and entities.
+name: CustomiesExtended
+description: Extended fork of Customies for Linacraft ecosystem with custom items, blocks and entities support.
 
-main: customiesdevs\customies\Customies
-src-namespace-prefix: customiesdevs\customies
-version: 1.4.0
+main: customiesextended\CustomiesExtended
+src-namespace-prefix: customiesextended
+
+version: 1.0.0
 api: 5.1.3
 
 authors:
   - DenielWorld
   - TwistedAsylumMC
+
 contributors:
+  - Kaïros
   - JackNoordhuis
   - Unickorn
   - abimek
